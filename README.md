@@ -1,4 +1,4 @@
-# P00 Otoño 2019
+# POO Otoño 2019
 
 ## 2 DO PARCIAL
 
