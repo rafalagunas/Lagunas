@@ -3,9 +3,11 @@
 ## 2 DO PARCIAL
 
 &nbsp;
-##Rafael Lagunas Guitrón _Github: @rafastaria_ _Gmail: 150300810@ucaribe.edu.mx_
+
+## Rafael Lagunas Guitrón _Github: @rafastaria_ _Gmail: 150300810@ucaribe.edu.mx_
+
 &nbsp;
 
-##Objetivos
+## Objetivos
 
-##Universidad del Caribe, Esquina Fraccionamiento, Tabachines, 77528 Cancún, Q.R.
+## Universidad del Caribe, Esquina Fraccionamiento, Tabachines, 77528 Cancún, Q.R.
