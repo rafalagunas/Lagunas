@@ -4,9 +4,12 @@
 
 &nbsp;
 
-## Rafael Lagunas Guitrón _Github: @rafastaria_ _Gmail: 150300810@ucaribe.edu.mx_
+## DATOS PERSONALES:
 
-&nbsp;
+- Rafael Lagunas Guitrón
+- Github: @rafastaria Gmail:
+- 150300810@ucaribe.edu.mx
+  &nbsp;
 
 ## Objetivos
 
