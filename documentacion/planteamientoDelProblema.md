@@ -4,7 +4,7 @@ PROYECTO - PROGRAMACIÓN ORIENTADA A OBJETOS
 
 # Título del proyecto
 
-Aplicación para digitalizar los libros de la biblioteca y desarrollar un repositorio público inclusivo
+Aplicación para digitalizar los libros de la biblioteca y desarrollar un repositorio público inclusivo.
 
 # Participantes
 
