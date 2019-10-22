@@ -12,7 +12,7 @@ Digitalizador
 
 1. scanCam(stream)
 2. digitalizarUnico(texto, tipoFormato)
-   3- digitalizarCantidad(texto, tipoFormato, CantidadPaginas)
+3. digitalizarCantidad(texto, tipoFormato, CantidadPaginas)
 
 ## digitalizar(string texto, string tipoFormato)
 
