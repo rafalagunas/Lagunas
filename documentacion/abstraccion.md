@@ -7,10 +7,11 @@ Digitalizador
 - Texto
 - tipoFormato
 - CantidadPaginas
+- dirName
 
-# Funciones
+# Métodos
 
-1. scanCam(stream)
+1. scanCam(stream, dirName)
 2. digitalizarUnico(texto, tipoFormato)
 3. digitalizarCantidad(texto, tipoFormato, CantidadPaginas)
 
