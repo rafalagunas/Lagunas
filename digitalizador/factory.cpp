@@ -8,11 +8,3 @@ public static FactoriaServicios
 
 
 
-var InicializaHw = FactoriaServicios.CrearServicio();
-
-var ConexionDB = FactoriaServicios.CrearServicio();
-
-var  = FactoriaServicios.CrearServicio();
-
-var servicioSecundario = FactoriaServicios.CrearServicio();
-
